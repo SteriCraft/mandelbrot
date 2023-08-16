@@ -1,4 +1,4 @@
-# mandelbrot
+# Mandelbrot SFML Plotter
 A mandelbrot fractal plotter using my brand new sfml pixel plotter.
 
 
